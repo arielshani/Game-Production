@@ -1,2 +1,2 @@
 # Game-Production
-games that I created
+Games that I created using the software flowlab. I also created the music in the softwares Bandlab and Audacity.
